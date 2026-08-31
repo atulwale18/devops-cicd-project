@@ -1,8 +1,3 @@
-# devops-cicd-project
-my 1st project
-
-
-
 # 🚀 DevOps CI/CD Project
 
 A simple Python Flask web application deployed on an AWS EC2 instance using Docker.
